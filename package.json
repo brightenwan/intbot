@@ -1,0 +1,26 @@
+{
+  "name": "intbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "discord.js": "^12.3.1",
+    "file-entry-cache": "^5.0.1",
+    "git": "^0.1.5",
+    "punycode": "^2.1.1",
+    "resolve-from": "^4.0.0",
+    "shebang-command": "^2.0.0",
+    "shebang-regex": "^3.0.0",
+    "sprintf-js": "^1.0.3",
+    "string-width": "^3.1.0",
+    "supports-color": "^5.5.0",
+    "type-check": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
